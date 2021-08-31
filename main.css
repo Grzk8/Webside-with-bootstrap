@@ -23,18 +23,12 @@ h1
 	padding: 0;
 }
 
-.jumper
+.jumpers p 
 {
-	display: inline-block;
-	width: 32%;
+	margin-bottom: 30px;
 }
 
-.jumper img
+.jumpers figcaption
 {
-	width: 100%;
-}
-
-.jumper figure
-{
-	margin: 10px;
+	margin-top: 8px;
 }
